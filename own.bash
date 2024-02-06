@@ -1,4 +1,4 @@
-pkg install ssh
+pkg install openssh
 pkg install expect
 sshd
 read -p "Type the HOSTED IP: " ip
